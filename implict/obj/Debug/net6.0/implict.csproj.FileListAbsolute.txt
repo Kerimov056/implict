@@ -1,0 +1,15 @@
+C:\Users\Legion\Desktop\work.C#\implict\implict\bin\Debug\net6.0\implict.exe
+C:\Users\Legion\Desktop\work.C#\implict\implict\bin\Debug\net6.0\implict.deps.json
+C:\Users\Legion\Desktop\work.C#\implict\implict\bin\Debug\net6.0\implict.runtimeconfig.json
+C:\Users\Legion\Desktop\work.C#\implict\implict\bin\Debug\net6.0\implict.dll
+C:\Users\Legion\Desktop\work.C#\implict\implict\bin\Debug\net6.0\implict.pdb
+C:\Users\Legion\Desktop\work.C#\implict\implict\obj\Debug\net6.0\implict.csproj.AssemblyReference.cache
+C:\Users\Legion\Desktop\work.C#\implict\implict\obj\Debug\net6.0\implict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Legion\Desktop\work.C#\implict\implict\obj\Debug\net6.0\implict.AssemblyInfoInputs.cache
+C:\Users\Legion\Desktop\work.C#\implict\implict\obj\Debug\net6.0\implict.AssemblyInfo.cs
+C:\Users\Legion\Desktop\work.C#\implict\implict\obj\Debug\net6.0\implict.csproj.CoreCompileInputs.cache
+C:\Users\Legion\Desktop\work.C#\implict\implict\obj\Debug\net6.0\implict.dll
+C:\Users\Legion\Desktop\work.C#\implict\implict\obj\Debug\net6.0\refint\implict.dll
+C:\Users\Legion\Desktop\work.C#\implict\implict\obj\Debug\net6.0\implict.pdb
+C:\Users\Legion\Desktop\work.C#\implict\implict\obj\Debug\net6.0\implict.genruntimeconfig.cache
+C:\Users\Legion\Desktop\work.C#\implict\implict\obj\Debug\net6.0\ref\implict.dll
